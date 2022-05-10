@@ -1,0 +1,20 @@
+/* Assets */
+@import url(style/bg.css);
+@import url(https://frankgp.com/icons/fontawesome/4.7.css);
+
+/* Styles */
+@import url(style/containter.css);
+@import url(style/elements.css);
+
+:root {
+  --color1: #000;
+  --color2: #333;
+  --color3: #888;
+  --color4: rgb(136, 211, 225);
+  --color5: #fff;
+}
+
+* {
+  /* border: 1px dashed #0808; */
+  box-sizing: border-box;
+}
