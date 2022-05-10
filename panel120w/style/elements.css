@@ -1,0 +1,63 @@
+img {
+  display: block;
+  width: 100%;
+  padding: 1rem;
+}
+
+img.panelsolar {
+  max-width: 20rem;
+  margin: auto;
+}
+
+h2,
+h1 {
+  font-size: 2em;
+}
+
+.btn {
+  display: block;
+  margin: 1rem;
+  border: 1px solid;
+  padding: 1rem;
+  text-decoration: none;
+  background-color: var(--color1);
+  color: var(--color5);
+  max-width: 20rem;
+  margin: 1rem auto;
+  position: relative;
+  /* font-size: 1.2rem; */
+}
+
+.btn:hover {
+  background-color: var(--color5);
+  color: var(--color1);
+}
+
+.btn i {
+  position: absolute;
+  left: 4rem;
+}
+
+.color3 {
+  color: var(--color3);
+}
+
+.fa-shopping-cart {
+  font-size: 20rem;
+}
+
+.whatsapp {
+  background-color: #25d366;
+  /* background-color: #128c7e; */
+}
+.facebook {
+  background-color: #4267b2;
+}
+
+.youtube {
+  background-color: #ff0000;
+}
+iframe {
+  width: 360px;
+  height: 550px;
+}
